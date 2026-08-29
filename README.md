@@ -1,4 +1,4 @@
-# ESP32-NESEMU
+# ESP32-NESGameConsole
 
 基于 [retro-go](https://github.com/ducalex/retro-go) 框架与 nofrendo 核心二次开发的 ESP32 NES 模拟器。
 
@@ -23,7 +23,7 @@
 ## 目录结构
 
 ```
-ESP32-NESEMU/
+ESP32-NESGameConsole/
 ├── main/                    # 主程序（main.c 启动逻辑、launcher 启动器、webui 网页上传等）
 ├── components/
 │   ├── retro-go/            # retro-go 框架（显示、音频、输入、文件系统、GUI）
