@@ -1,0 +1,11 @@
+.settings/
+.venv/
+.vscode/
+
+build/
+managed_components/
+
+.clang-format
+.clangd
+.cproject
+.project

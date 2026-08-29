@@ -1,0 +1,8 @@
+{
+	"Enable":	false,
+	"ssid0":	"yourssid",
+	"password0":	"yourpasswd",
+	"channel0":	0,
+	"mode0":	0,
+	"Slot":	0
+}

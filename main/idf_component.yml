@@ -1,0 +1,5 @@
+dependencies:
+  idf: '>=4.4'
+  espressif/esp_lcd_ili9341: ^2.0.0
+  joltwallet/littlefs: ^1.22.2
+  espressif/cjson: ^1.7.19~2
